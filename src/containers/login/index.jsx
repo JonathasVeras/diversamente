@@ -32,9 +32,9 @@ export default function Login() {
       localStorage.setItem("user", JSON.stringify(matchedUser)); // Atenção aqui
   
       if (matchedUser.role === "aluno") {
-        navigate("/aluno-menu");
+        navigate("/diversamente/aluno-menu");
       } else if (matchedUser.role === "professor") {
-        navigate("/professor-menu");
+        navigate("/diversamente/professor-menu");
       }
     } else {
       // Se nenhum usuário foi encontrado, exibe um alerta
@@ -43,7 +43,7 @@ export default function Login() {
   };
 
   const handleGoToSignUp = () => {
-    navigate("/register"); // Redireciona para a página de login
+    navigate("/diversamente/register"); // Redireciona para a página de login
   };
 
   return (

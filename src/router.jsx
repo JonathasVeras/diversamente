@@ -23,7 +23,7 @@ export default function Router() {
         />
         <Route
           key="1"
-          path="/register"
+          path="/diversamente/register"
           element={
             <Suspense fallback={<>Carregando...</>}>
               <Register></Register>
@@ -32,7 +32,7 @@ export default function Router() {
         />
         <Route
           key="2"
-          path="/aluno-menu"
+          path="/diversamente/aluno-menu"
           element={
             <Suspense fallback={<>Carregando...</>}>
               <Navbar></Navbar>
@@ -42,7 +42,7 @@ export default function Router() {
         />
         <Route
           key="3"
-          path="/professor-menu"
+          path="/diversamente/professor-menu"
           element={
             <Suspense fallback={<>Carregando...</>}>
               <Navbar></Navbar>
@@ -52,7 +52,7 @@ export default function Router() {
         />
         <Route
           key="4"
-          path="/start-test/:index"
+          path="/diversamente/start-test/:index"
           element={
             <Suspense fallback={<>Carregando...</>}>
               <Navbar></Navbar>

@@ -13,7 +13,7 @@ const Navbar = () => {
   };
 
   const handleRegister = () => {
-    navigate("/register"); // Redireciona para a página de registro
+    navigate("/diversamente/register"); // Redireciona para a página de registro
   };
 
   return (

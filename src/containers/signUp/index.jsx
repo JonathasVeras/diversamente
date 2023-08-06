@@ -35,9 +35,9 @@ export default function SignUp() {
 
     // User is registered, navigate to their menu
     if (user.role === "aluno") {
-      navigate("/aluno-menu");
+      navigate("/diversamente/aluno-menu");
     } else if (user.role === "professor") {
-      navigate("/professor-menu");
+      navigate("/diversamente/professor-menu");
     }
   };
   const handleGoToLogin = () => {
