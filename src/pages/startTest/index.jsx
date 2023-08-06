@@ -37,7 +37,7 @@ const StartTest = () => {
     } else {
       saveStudentScore();
       alert("Prova finalizada!");
-      navigate(`/aluno-menu`);
+      navigate(`/diversamente/aluno-menu`);
     }
   };
 
