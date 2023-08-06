@@ -20,7 +20,7 @@ const MenuAluno = () => {
   }, []);
 
   const handleStartTest = (testIndex) => {
-    navigate(`/start-test/${testIndex}`);
+    navigate(`/diversamente/start-test/${testIndex}`);
   };
 
   return (
