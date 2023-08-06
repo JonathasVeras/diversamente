@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Qual tipo de relação $ecológica$ ocorre quando uma _espécie_ se $beneficia$ e a outra não é _afetada_?",
+    "options": {
+      "a": "Mutualismo",
+      "b": "Comensalismo",
+      "c": "Parasitismo",
+      "d": "Competição"
+    },
+    "answer": "b",
+    "subject": "Ciências",
+    "level": "2",
+    "topic": "Ecologia",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Quando uma espécie se alimenta de outra, causando a morte do organismo atacado, qual é o tipo de relação ecológica?",
+    "options": {
+      "a": "Mutualismo",
+      "b": "Comensalismo",
+      "c": "Predação",
+      "d": "Parasitismo"
+    },
+    "answer": "c",
+    "subject": "Ciências",
+    "level": "2",
+    "topic": "Ecologia",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Qual é o exemplo de uma relação ecológica onde duas espécies competem por recursos limitados, como comida e espaço?",
+    "options": {
+      "a": "Mutualismo",
+      "b": "Predação",
+      "c": "Comensalismo",
+      "d": "Competição"
+    },
+    "answer": "d",
+    "subject": "Ciências",
+    "level": "2",
+    "topic": "Ecologia",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Quando uma espécie vive dentro ou sobre outra espécie, retirando nutrientes dela, qual é o tipo de relação ecológica?",
+    "options": {
+      "a": "Comensalismo",
+      "b": "Parasitismo",
+      "c": "Predação",
+      "d": "Mutualismo"
+    },
+    "answer": "b",
+    "subject": "Ciências",
+    "level": "2",
+    "topic": "Ecologia",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Qual é o tipo de relação ecológica em que uma espécie se beneficia e a outra é prejudicada?",
+    "options": {
+      "a": "Comensalismo",
+      "b": "Mutualismo",
+      "c": "Parasitismo",
+      "d": "Competição"
+    },
+    "answer": "c",
+    "subject": "Ciências",
+    "level": "2",
+    "topic": "Ecologia",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Qual teoria científica propõe que a vida na Terra começou a partir de moléculas orgânicas simples que se formaram em condições primordiais?",
+    "options": {
+      "a": "Teoria da Criação Divina",
+      "b": "Teoria da Panspermia",
+      "c": "Teoria da Evolução",
+      "d": "Teoria da Evolução Química"
+    },
+    "answer": "d",
+    "subject": "Ciências",
+    "level": "3",
+    "topic": "Origem da Vida",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Qual foi o experimento de laboratório que simulou as condições da Terra primitiva e produziu aminoácidos, blocos fundamentais das proteínas?",
+    "options": {
+      "a": "Experimento de Pasteur",
+      "b": "Experimento de Mendel",
+      "c": "Experimento de Miller-Urey",
+      "d": "Experimento de Watson e Crick"
+    },
+    "answer": "c",
+    "subject": "Ciências",
+    "level": "3",
+    "topic": "Origem da Vida",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Qual é a molécula considerada fundamental para o armazenamento e transmissão da informação genética em todos os seres vivos?",
+    "options": {
+      "a": "Proteína",
+      "b": "Carboidrato",
+      "c": "Ácido nucleico",
+      "d": "Lipídio"
+    },
+    "answer": "c",
+    "subject": "Ciências",
+    "level": "2",
+    "topic": "Genética",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Qual é a teoria que sugere que a vida na Terra pode ter se originado a partir de materiais orgânicos trazidos por meteoritos ou cometas?",
+    "options": {
+      "a": "Teoria da Geração Espontânea",
+      "b": "Teoria da Panspermia",
+      "c": "Teoria da Evolução Química",
+      "d": "Teoria da Seleção Natural"
+    },
+    "answer": "b",
+    "subject": "Ciências",
+    "level": "3",
+    "topic": "Origem da Vida",
+    "imageList": ["/image1.png", "/image2.png"]
+  },
+  {
+    "question": "Qual é o processo pelo qual as células simples se desenvolveram em organismos mais complexos ao longo de milhões de anos?",
+    "options": {
+      "a": "Fissão binária",
+      "b": "Mitose",
+      "c": "Meiose",
+      "d": "Evolução"
+    },
+    "answer": "d",
+    "subject": "Ciências",
+    "level": "2",
+    "topic": "Evolução",
+    "imageList": ["/image1.png", "/image2.png"]
+  }
+]
