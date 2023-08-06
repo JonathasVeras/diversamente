@@ -9,7 +9,7 @@ const Navbar = () => {
 
   const handleLogout = () => {
     localStorage.removeItem("storedUser"); // Remove o usuário do armazenamento local
-    navigate("/"); // Redireciona para a página de login
+    navigate("/diversamente"); // Redireciona para a página de login
   };
 
   const handleRegister = () => {

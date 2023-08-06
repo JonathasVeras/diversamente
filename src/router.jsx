@@ -14,7 +14,7 @@ export default function Router() {
       <Routes>
         <Route
           key="0"
-          path="/"
+          path="/diversamente"
           element={
             <Suspense fallback={<>Carregando...</>}>
               <Login></Login>

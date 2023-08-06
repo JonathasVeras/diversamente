@@ -41,7 +41,7 @@ export default function SignUp() {
     }
   };
   const handleGoToLogin = () => {
-    navigate("/"); // Redireciona para a página de login
+    navigate("/diversamente"); // Redireciona para a página de login
   };
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-300 py-12 px-4 sm:px-6 lg:px-8">
