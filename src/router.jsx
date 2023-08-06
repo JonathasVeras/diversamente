@@ -1,5 +1,5 @@
 import { lazy, Suspense } from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, HashRouter as RouterA } from "react-router-dom";
 import Navbar from "./components/navBar";
 
 const Login = lazy(() => import("./pages/login/index"));
@@ -8,10 +8,10 @@ const MenuDoAluno = lazy(() => import("./pages/menuAluno/index"));
 const MenuDoProfessor = lazy(() => import("./pages/menuProfessor/index"));
 const StartTest = lazy(() => import("./pages/startTest/index"));
 
-export default function Router() {
+export default function RouterApp() {
   return (
     <BrowserRouter>
-      <Routes>
+      <RouterA>
         <Route
           key="0"
           path="/diversamente"
@@ -60,7 +60,7 @@ export default function Router() {
             </Suspense>
           }
         />
-      </Routes>
+      </RouterA>
     </BrowserRouter>
   );
 }
